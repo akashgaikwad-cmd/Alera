@@ -7,7 +7,7 @@ Built with Flutter and powered by Firebase, Alera ensures a seamless, secure, an
 🚀 Features
 
 
-🏋️‍♂️ Health & Fitness
+🏋️‍♂️ 1.Health & Fitness
 
 ✅ BMI Calculator – Calculate & track your Body Mass Index.
 
@@ -22,7 +22,7 @@ Built with Flutter and powered by Firebase, Alera ensures a seamless, secure, an
 
 
 
-💊 Medication & Reminders
+💊 2.Medication & Reminders
 
 ✅ Medication Reminder – Never miss a dose again.
 
@@ -32,7 +32,7 @@ Built with Flutter and powered by Firebase, Alera ensures a seamless, secure, an
 
 
 
-🔐 User Authentication & Profile
+🔐 3.User Authentication & Profile
 
 ✅ Login & Registration – Secure authentication system.
 
@@ -42,7 +42,7 @@ Built with Flutter and powered by Firebase, Alera ensures a seamless, secure, an
 
 
 
-🎨 UI & Navigation
+🎨 4.UI & Navigation
 
 ✅ Bottom Navigation Bar – Smooth and intuitive navigation.
 
